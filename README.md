@@ -21,7 +21,7 @@ Steps:
 
 ![](https://github.com/SuhaniArora/Jenkins_container/blob/master/jenkin_docker/Dockerfile.png)
 
-2. Build the docker image using the command - docker build -t jenkins:v1 .
+2. Build the docker image using the command - docker build -t jenkins:v1 and run the container using the following command.
 
 ![](https://github.com/SuhaniArora/Jenkins_container/blob/master/jenkin_docker/docker_run.png)
 
@@ -53,7 +53,7 @@ Steps:
 
 Before setting the post-build instal Email plugin and configure the following settings in Manage Jenkins --> configure System.
 
-![](https://github.com/SuhaniArora/Jenkins_container/blob/master/jenkin_docker/3_4.png)
+![](https://github.com/SuhaniArora/Jenkins_container/blob/master/jenkin_docker/email_conf.jpeg)
 
 ![](https://github.com/SuhaniArora/Jenkins_container/blob/master/jenkin_docker/3_5.png)
 
